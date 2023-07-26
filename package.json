@@ -1,6 +1,8 @@
 {
 	"author": "Mike Ipri",
 
+	"description": "Testing and working with git and backend",
+
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
