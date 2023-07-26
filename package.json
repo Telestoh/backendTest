@@ -3,6 +3,8 @@
 
 	"description": "Testing and working with git and backend",
 
+	"keywords": [ "freecodecamp", "brown", "green", "amazing" ],
+
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
